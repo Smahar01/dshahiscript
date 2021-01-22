@@ -1,6 +1,8 @@
 new file updated 
 
 THis is my first file
+hello everybody
+practicing devops
 
 changing few lines here
 adding few lines for testign purpose
